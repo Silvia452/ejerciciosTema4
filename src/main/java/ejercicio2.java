@@ -26,3 +26,4 @@ public class ejercicio2 {
         System.out.println("La media aritmética de los valores introducidos es: " + (suma / i));
     }
 }
+
