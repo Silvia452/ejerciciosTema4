@@ -14,16 +14,22 @@ public class ejercicio3 {
         int[] valores = new int[100];
         int suma = 0;
         int i = 0;
+        int contadorNotasAltas = 0;
         while (true) {
             System.out.println("¿Nota(-1 para terminar)? ");
             valores[i] = sc.nextInt();
             if (valores[i] == -1) {
                 break;
             }
+            else if (valores[i] > 10){
+                contadorNotasAltas++;
+            }
+
             suma += valores[i];
             i++;
         }
         System.out.println("La media aritmética de los valores introducidos es: " + (suma / i));
     }
+
 }
 
