@@ -21,7 +21,7 @@ public class ejercicio3 {
             if (valores[i] == -1) {
                 break;
             }
-            else if (valores[i] > 10){
+            else if (valores[i] >= 10 || valores[i] >=20){
                 contadorNotasAltas++;
             }
 
@@ -29,6 +29,7 @@ public class ejercicio3 {
             i++;
         }
         System.out.println("La media aritmética de los valores introducidos es: " + (suma / i));
+        System.out.println("Las notas que superan 10/20: " +  contadorNotasAltas*10 +" %" );
     }
 
 }
