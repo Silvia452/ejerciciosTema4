@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3837d901-8c0b-435b-90ec-070513a09d58" name="Changes" comment="hasta 7 hecho, falta ejercicio3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio9.java" afterDir="false" />
+    <list default="true" id="3837d901-8c0b-435b-90ec-070513a09d58" name="Changes" comment="Falta ejercicio3, ejercicio8 y ejercicio11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676296658854</updated>
       <workItem from="1676296661015" duration="1420000" />
-      <workItem from="1676375330501" duration="5051000" />
+      <workItem from="1676375330501" duration="5257000" />
+      <workItem from="1676458558672" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="Hasta ejercicio 4 hecho">
       <created>1676375887706</created>
@@ -75,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676380181551</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Falta ejercicio3, ejercicio8 y ejercicio11">
+      <created>1676380792025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676380792025</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Falta ejercicio3, ejercicio8 y ejercicio11">
+      <created>1676380929983</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676380929983</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hasta ejercicio 4 hecho" />
     <MESSAGE value="hasta 7 hecho, falta ejercicio3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hasta 7 hecho, falta ejercicio3" />
+    <MESSAGE value="Falta ejercicio3, ejercicio8 y ejercicio11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta ejercicio3, ejercicio8 y ejercicio11" />
   </component>
 </project>
