@@ -27,7 +27,7 @@ public class ejercicio11 {
         int forma = sc.nextInt();
 
         switch (forma) {
-            case 1:
+            case 1: //rectángulo con relleno
                 for (int i = 0; i < tamano; i++) {
                     for (int j = 0; j < tamano; j++) {
                         System.out.print(caracter);
@@ -35,7 +35,7 @@ public class ejercicio11 {
                     System.out.println();
                 }
                 break;
-            case 2:
+            case 2: //rectángulo sin relleno
                 for (int i = 0; i < tamano; i++) {
                     for (int j = 0; j < tamano; j++) {
                         if (i == 0 || i == tamano - 1 || j == 0 || j == tamano - 1) {
@@ -47,7 +47,7 @@ public class ejercicio11 {
                     System.out.println();
                 }
                 break;
-            case 3:
+            case 3: // cruz de San Andrés
                 for (int i = 0; i < tamano; i++) {
                     for (int j = 0; j < tamano; j++) {
                         if (i == j || i + j == tamano - 1) {
@@ -59,7 +59,7 @@ public class ejercicio11 {
                     System.out.println();
                 }
                 break;
-            case 4:
+            case 4: //triángulo rectángulo
                 for (int i = 0; i < tamano; i++) {
                     for (int j = 0; j <= i; j++) {
                         System.out.print(caracter);
@@ -67,7 +67,7 @@ public class ejercicio11 {
                     System.out.println();
                 }
                 break;
-            case 5:
+            case 5: //rombo
                 for (int i = 0; i < tamano; i++) {
                     for (int j = 0; j < tamano - i; j++) {
                         System.out.print(" ");
@@ -87,7 +87,7 @@ public class ejercicio11 {
                     System.out.println();
                 }
                 break;
-            case 6:
+            case 6: //ajedrez
                 for (int i = 0; i < tamano; i++) {
                     for (int j = 0; j < tamano; j++) {
                         if ((i + j) % 2 == 0) {
