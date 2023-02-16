@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3837d901-8c0b-435b-90ec-070513a09d58" name="Changes" comment="ejercicio 3 completado">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio5.java" afterDir="false" />
+    <list default="true" id="3837d901-8c0b-435b-90ec-070513a09d58" name="Changes" comment="Ejercicio 3 completado, y algunos cambuios realizados">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <workItem from="1676458558672" duration="2716000" />
       <workItem from="1676472099985" duration="50000" />
       <workItem from="1676475573439" duration="796000" />
-      <workItem from="1676478378350" duration="332000" />
+      <workItem from="1676478378350" duration="1178000" />
     </task>
     <task id="LOCAL-00001" summary="Hasta ejercicio 4 hecho">
       <created>1676375887706</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676478517291</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ejercicio 3 completado, y algunos cambuios realizados">
+      <created>1676478888767</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676478888767</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +141,7 @@
     <MESSAGE value="Falta ejercicio3, ejercicio8" />
     <MESSAGE value="Falta ejercicio3" />
     <MESSAGE value="ejercicio 3 completado" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 3 completado" />
+    <MESSAGE value="Ejercicio 3 completado, y algunos cambuios realizados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 3 completado, y algunos cambuios realizados" />
   </component>
 </project>

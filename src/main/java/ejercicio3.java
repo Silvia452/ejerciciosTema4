@@ -1,4 +1,3 @@
-//TODO:mostrar además el porcentaje de notas superiores a 10/20
 
 import java.util.Scanner;
 
